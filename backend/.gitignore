@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Python test cache
+*.pytest_cache/
+*.coverage
+.coverage.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
+
+# Git ignored folders should not be tracked
+!.gitignore

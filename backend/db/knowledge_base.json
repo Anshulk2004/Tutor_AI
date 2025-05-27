@@ -1,0 +1,11 @@
+[
+  {"content": "Quadratic formula: x = (-b ± √(b²-4ac))/(2a) for ax² + bx + c = 0."},
+  {"content": "Pythagorean theorem: a² + b² = c² for a right triangle."},
+  {"content": "Area of a circle: A = πr², where r is the radius."},
+  {"content": "Molar mass: Sum of atomic masses of all atoms in a molecule (e.g., H2SO4 = 2*1.008 + 32.06 + 4*15.999 = 98.078 g/mol)."},
+  {"content": "pH = -log10[H+] for strong acids; pH = 14 + log10[OH-] for strong bases."},
+  {"content": "Covalent bond: Sharing of electron pairs between atoms (e.g., H2O)."},
+  {"content": "Newton’s Second Law: F = m * a, where F is force, m is mass, a is acceleration."},
+  {"content": "Kinetic Energy: KE = 0.5 * m * v², where m is mass, v is velocity."},
+  {"content": "Ohm’s Law: V = I * R, where V is voltage, I is current, R is resistance."}
+]
